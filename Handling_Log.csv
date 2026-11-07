@@ -1,0 +1,25 @@
+Timestamp_UTC,Action,Detail,Tool_Version,Result
+2026-11-07T10:13:03Z,Handling log started,Case SBT-DF205-C2 examiner Mustapha Abubakar,Linux 6.16.8+kali-amd64,OK
+2026-11-07T10:13:03Z,Tool versions,"sqlite3 3.53.4; exiftool 13.55; sha256sum 9.7",recorded,OK
+2026-11-07T10:13:08Z,Source archive not located,item 1 not found on disk,find,NOT FOUND - locate manually
+2026-11-07T10:20:17Z,SHA-256 of source archive,/home/kali/usb-files/extracted/iOS 13.4.1 Extraction/Extraction/13-4-1.tar size=17223813120 sha256=991727d92145a08623e998c008cc2a05f086be722ee2945815d0eb46a78f04fb,sha256sum,Baseline recorded
+2026-11-07T10:20:17Z,Working copy created,E01 private/var/mobile/Library/Accounts/Accounts3.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:17Z,Working copy created,E02 private/var/mobile/Library/Accounts/VerifiedBackup/Accounts3.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:17Z,Working copy created,E03 private/var/mobile/Library/SMS/sms.db (with sidecars),cp -p,OK
+2026-11-07T10:20:17Z,Working copy created,E04 private/var/mobile/Library/AddressBook/AddressBook.sqlitedb (with sidecars),cp -p,OK
+2026-11-07T10:20:18Z,Working copy created,E05 private/var/mobile/Library/CallHistoryDB/CallHistory.storedata (with sidecars),cp -p,OK
+2026-11-07T10:20:18Z,Working copy created,E06 private/var/mobile/Library/Safari/History.db (with sidecars),cp -p,OK
+2026-11-07T10:20:18Z,Working copy created,E07 private/var/mobile/Library/Calendar/Calendar.sqlitedb (with sidecars),cp -p,OK
+2026-11-07T10:20:18Z,Working copy created,E08 private/var/mobile/Library/Calendar/Extras.db (with sidecars),cp -p,OK
+2026-11-07T10:20:18Z,Working copy created,E09 private/var/mobile/Media/PhotoData/Photos.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Working copy created,E10 private/var/mobile/Library/CoreDuet/Knowledge/knowledgeC.db (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Working copy created,E11 private/var/mobile/Library/Health/healthdb.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Working copy created,E12 private/var/mobile/Library/Health/healthdb_secure.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Working copy created,E13 private/var/mobile/Library/Caches/com.apple.routined/Local.sqlite (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Working copy created,E14 private/var/root/Library/Caches/locationd/cache_encryptedB.db (with sidecars),cp -p,OK
+2026-11-07T10:20:19Z,Note,Source archive hashes were calculated after examination had begun; recorded as baselines,n/a,Limitation
+2026-11-07T10:28:16Z,Attachment file not located,/var/tmp/com.apple.messages/com.apple.MobileSMS/Media/E54EFEAC-40A3-45D3-88BD-84B3E0A576FC/IMG_0008.JPG,ls,Unavailable - documented
+2026-11-07T10:29:06Z,Attachment file not at expected path,~/Library/SMS/Attachments/10/00/A0159B39-9B33-401F-B5F2-87638BBCF97B/IMG_0008.JPG,find,Searched by name - see output
+2026-11-07T10:30:38Z,Attachment folder check,SMS/Attachments files=0; IMG_0008 and attachments 4-7 not present,find,Content unavailable - documented
+2026-11-07T10:35:03Z,Plist availability check,0 .plist files in extraction; SystemVersion.plist and data_ark.plist absent,find,Documented absence - used Health data_provenances instead
+2026-11-07T10:40:33Z,Media file availability check,DCIM and Photos media files absent: 0 files found (find); 59 ZGENERICASSET rows,find,Documented absence - analysis limited to Photos.sqlite

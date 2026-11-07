@@ -1,0 +1,11 @@
+record_id,stream,app,lock_val,raw_start,start_utc,end_utc,dur_s
+17472,/app/inFocus,com.toyopagroup.picaboo,,608393744,"2020-04-12 14:15:44","2020-04-12 14:16:39",55.0
+17474,/app/inFocus,com.toyopagroup.picaboo,,608393799,"2020-04-12 14:16:39","2020-04-12 14:17:05",26.0
+17477,/app/inFocus,com.apple.AppPredictionWidget.extension,,608393956,"2020-04-12 14:19:16","2020-04-12 14:19:17",1.0
+17478,/app/inFocus,com.apple.news.widget,,608393956,"2020-04-12 14:19:16","2020-04-12 14:19:18",2.0
+17483,/app/inFocus,com.apple.camera,,608394173,"2020-04-12 14:22:53","2020-04-12 14:23:48",55.0
+17486,/app/inFocus,com.apple.ScreenshotServicesService,,608394246,"2020-04-12 14:24:06","2020-04-12 14:24:13",7.0
+17488,/app/inFocus,com.apple.ScreenshotServicesService,,608394266,"2020-04-12 14:24:26","2020-04-12 14:24:31",5.0
+17490,/app/inFocus,com.apple.camera,,608394293,"2020-04-12 14:24:53","2020-04-12 14:25:16",23.0
+17494,/app/inFocus,com.apple.ScreenshotServicesService,,608394455,"2020-04-12 14:27:35","2020-04-12 14:27:38",3.0
+17531,/device/isLocked,,1,608394463,"2020-04-12 14:27:43","2020-04-12 14:40:03",740.0

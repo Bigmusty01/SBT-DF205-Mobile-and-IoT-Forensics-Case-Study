@@ -1,0 +1,24 @@
+kind,data_id,data_type,start_utc,quantity,original_unit,source_name,bundle_id,model,software
+sample,45327,10,"2020-04-12 14:42:44",0.018,,"This Is’s Apple Watch",com.apple.health.9676B92F-913B-4B9D-AF56-5029C3E5FB64,Watch,6.1.3
+sample,45496,10,"2020-04-12 14:42:54",0.14,,"This Is’s Apple Watch",com.apple.health.9676B92F-913B-4B9D-AF56-5029C3E5FB64,Watch,6.1.3
+sample,45502,10,"2020-04-12 14:43:15",0.24800000000000003,,"This Is’s Apple Watch",com.apple.health.9676B92F-913B-4B9D-AF56-5029C3E5FB64,Watch,6.1.3
+sample,45503,10,"2020-04-12 14:44:26",0.34600000000000003,,"This Is’s Apple Watch",com.apple.health.9676B92F-913B-4B9D-AF56-5029C3E5FB64,Watch,6.1.3
+sample,45504,10,"2020-04-12 14:45:27",0.30000000000000004,,"This Is’s Apple Watch",com.apple.health.9676B92F-913B-4B9D-AF56-5029C3E5FB64,Watch,6.1.3
+sample,46551,10,"2020-04-12 04:00:00",394.0,,"Sync Solver",com.redshiftdev.Fitbit-Health-Sync,"",""
+kind,data_id,start_utc,source_name,model,software
+workout,15017,"2020-03-27 18:57:39","This Is’s Apple Watch",Watch,6.1.3
+workout,18146,"2020-03-28 14:41:25","This Is’s Apple Watch",Watch,6.1.3
+workout,24649,"2020-03-30 12:44:04","This Is’s Apple Watch",Watch,6.1.3
+workout,30219,"2020-03-31 18:58:47","This Is’s Apple Watch",Watch,6.1.3
+workout,36805,"2020-04-02 17:36:41","This Is’s Apple Watch",Watch,6.1.3
+workout,44801,"2020-04-03 19:11:28","This Is’s Apple Watch",Watch,6.1.3
+source_name,model,samples
+"This Is’s Apple Watch",Watch,43604
+"Sync Solver","",3445
+"This Is’s Apple Watch","",1378
+"This Is’s iPhone",iPhone,506
+Health,"",8
+"This Is’s Apple Watch",0x200e,5
+"This Is’s Apple Watch",0x2002,2
+"This Is’s iPhone","",1
+"This Is’s iPhone",0x2002,1

@@ -1,0 +1,7 @@
+origin_product_type,origin_build,origin_major_version,origin_minor_version,local_product_type,local_build,tz_name,rows
+"Watch4,3",17S811,6,1,"iPhone8,4",17D50,America/New_York,14
+"iPhone8,4",17D50,13,3,"iPhone8,4",17D50,America/New_York,14
+"Watch4,3",17S811,6,1,"iPhone8,4",17D50,US/Pacific,3
+"Watch4,3",17S811,6,1,"iPhone8,4",17E262,America/New_York,3
+"Watch4,3",17T530,6,2,"iPhone8,4",17E262,America/New_York,3
+"iPhone8,4",17E262,13,4,"iPhone8,4",17E262,America/New_York,3

@@ -1,0 +1,24 @@
+Event_No,Artefact_Family,Evidence_ID,Record_Ref,Raw_Time,Field_Name,Epoch_And_Unit,UTC_Time,Event_Description
+1,Accounts,E01,account 12,606520078.027195,ZACCOUNT.ZDATE,seconds since 2001-01-01 UTC,2020-03-21 21:47:58,Account record dated: Apple ID account
+2,Photos,E09,asset 8,606576302.8158295,ZGENERICASSET.ZDATECREATED,seconds since 2001-01-01 UTC,2020-03-22 13:25:02,Photos asset created: DCIM/100APPLE/IMG_0008.JPG
+3,Safari,E06,visit 2,607049916.117145,history_visits.visit_time,seconds since 2001-01-01 UTC,2020-03-28 00:58:36,Safari visit recorded: when does mlb start 2020 - Google Search
+4,Safari,E06,visit 11,607050231.330998,history_visits.visit_time,seconds since 2001-01-01 UTC,2020-03-28 01:03:51,Safari visit recorded: NHL expects to resume season after pause for coronavirus
+5,Call history,E05,call 31,607812138.039618,ZCALLRECORD.ZDATE,seconds since 2001-01-01 UTC,2020-04-05 20:42:18,"Call record: outgoing, duration 23.1 s, answered flag 0"
+6,Call history,E05,call 56,608346886.027321,ZCALLRECORD.ZDATE,seconds since 2001-01-01 UTC,2020-04-12 01:14:46,"Call record: incoming, duration 12.2 s, answered flag 1"
+7,KnowledgeC,E10,record 17236,608388751,ZOBJECT.ZSTARTDATE,seconds since 2001-01-01 UTC,2020-04-12 12:52:31,App in focus: com.apple.MobileSMS (focus 380.0 s)
+8,iMessage/SMS,E03,message 34,608388861591000064,message.date,nanoseconds since 2001-01-01 UTC,2020-04-12 12:54:21,iMessage sent in chat 13 (joshua.hickman1@me.com)
+9,KnowledgeC,E10,record 17230,608388963,ZOBJECT.ZSTARTDATE,seconds since 2001-01-01 UTC,2020-04-12 12:56:03,App in focus: com.apple.camera.CameraMessagesApp (focus 5.0 s)
+10,KnowledgeC,E10,record 17233,608388973,ZOBJECT.ZSTARTDATE,seconds since 2001-01-01 UTC,2020-04-12 12:56:13,App in focus: com.apple.mobileslideshow.PhotosMessagesApp (focus 123.0 s)
+11,iMessage/SMS,E03,attachment 2,608389002,attachment.created_date,seconds since 2001-01-01 UTC,2020-04-12 12:56:42,"Attachment record created (staging path, transfer_state 0): IMG_0008.JPG"
+12,iMessage/SMS,E03,attachment 3,608389004,attachment.created_date,seconds since 2001-01-01 UTC,2020-04-12 12:56:44,Attachment record created (transfer_state 5; file absent from extraction): IMG_0008.JPG
+13,iMessage/SMS,E03,message 36,608389005092000000,message.date,nanoseconds since 2001-01-01 UTC,2020-04-12 12:56:45,iMessage sent with attachment 3 (chat 13)
+14,Photos,E09,asset 38,608389105.1502706,ZGENERICASSET.ZDATECREATED,seconds since 2001-01-01 UTC,2020-04-12 12:58:25,Photos asset created: DCIM/100APPLE/IMG_0038.JPG
+15,routined,E13,visit 963,608392492.624497,ZRTLEARNEDLOCATIONOFINTERESTVISITMO.ZEXITDATE,seconds since 2001-01-01 UTC,2020-04-12 13:54:52,Learned visit exit (visit began 2020-04-11 18:54:52 UTC)
+16,Call history,E05,call 58,608393046.086004,ZCALLRECORD.ZDATE,seconds since 2001-01-01 UTC,2020-04-12 14:04:06,"Call record: outgoing, duration 64.6 s, answered flag 0"
+17,routined,E13,visit 967,608393992.624497,ZRTLEARNEDLOCATIONOFINTERESTVISITMO.ZEXITDATE,seconds since 2001-01-01 UTC,2020-04-12 14:19:52,Learned visit exit (about 1.2 km from the GPS photo location)
+18,KnowledgeC,E10,record 17483,608394173,ZOBJECT.ZSTARTDATE,seconds since 2001-01-01 UTC,2020-04-12 14:22:53,App in focus: com.apple.camera (focus 55.0 s)
+19,Photos,E09,asset 47,608394190.4792306,ZGENERICASSET.ZDATECREATED,seconds since 2001-01-01 UTC,2020-04-12 14:23:10,Photos asset created with GPS: DCIM/100APPLE/IMG_0047.JPG
+20,KnowledgeC,E10,record 17490,608394293,ZOBJECT.ZSTARTDATE,seconds since 2001-01-01 UTC,2020-04-12 14:24:53,App in focus: com.apple.camera (focus 23.0 s)
+21,Photos,E09,asset 52,608394313.1472422,ZGENERICASSET.ZDATECREATED,seconds since 2001-01-01 UTC,2020-04-12 14:25:13,Photos asset created with GPS: DCIM/100APPLE/IMG_0052.JPG
+22,routined,E13,visit 956,608394592.9964104,ZRTLEARNEDLOCATIONOFINTERESTVISITMO.ZENTRYDATE,seconds since 2001-01-01 UTC,2020-04-12 14:29:52,Learned visit entry
+23,Call history,E05,call 59,608398003.3662729,ZCALLRECORD.ZDATE,seconds since 2001-01-01 UTC,2020-04-12 15:26:43,"Call record: outgoing, duration 98.0 s, answered flag 0"

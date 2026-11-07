@@ -1,0 +1,2 @@
+_SqliteDatabaseProperties   chat               chat_message_join   handle    message                   message_processing_task    sync_deleted_chats
+attachment                  chat_handle_join   deleted_messages    kvtable   message_attachment_join   sync_deleted_attachments   sync_deleted_messages

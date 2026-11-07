@@ -1,0 +1,24 @@
+Evidence_ID,Source_Path,Record_Reference,Size_Bytes,SHA256,Notes
+SRC2,/home/kali/usb-files/extracted/iOS 13.4.1 Extraction/Extraction/13-4-1.tar,whole file,17223813120,991727d92145a08623e998c008cc2a05f086be722ee2945815d0eb46a78f04fb,Source archive baseline - see Handling_Log
+E01,private/var/mobile/Library/Accounts/Accounts3.sqlite,whole file,245760,29363b60d7eba8bf3b683b516cfd275709023162b004940023897233fc81b21b,working copy in ~/work/db/E01
+E02,private/var/mobile/Library/Accounts/VerifiedBackup/Accounts3.sqlite,whole file,237568,b831b47cfc1376407111bb4a2e049c4f9e605bfbbc083d041ac826d1e49f4b7a,working copy in ~/work/db/E02
+E03,private/var/mobile/Library/SMS/sms.db,whole file,368640,2c806fcba28a8dfac300270409fc90e5516d3548f624708d90a33edd2a5f7b7a,working copy in ~/work/db/E03
+E04,private/var/mobile/Library/AddressBook/AddressBook.sqlitedb,whole file,303104,516c1d2640104abdfb763109770076a34000cdbf4f045dc7c876b67ae4a40fc5,working copy in ~/work/db/E04
+E05,private/var/mobile/Library/CallHistoryDB/CallHistory.storedata,whole file,81920,810e3591edb2d0b0e8353e86134f9f83c54d6f563f824af476e548f6d12628a1,working copy in ~/work/db/E05
+E06,private/var/mobile/Library/Safari/History.db,whole file,98304,b33a703a085bc84e49a955d453b36a0be12082721adc9a1efa9ad8923738b811,working copy in ~/work/db/E06
+E06-wal,private/var/mobile/Library/Safari/History.db-wal,whole file,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,sidecar of E06; working copy in ~/work/db/E06
+E06-shm,private/var/mobile/Library/Safari/History.db-shm,whole file,32768,fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb,sidecar of E06; working copy in ~/work/db/E06
+E07,private/var/mobile/Library/Calendar/Calendar.sqlitedb,whole file,712704,2fc43785736bea48973f849fda1a0a78906d0a3e8d90bbbd57ea6c40c47e0ac5,working copy in ~/work/db/E07
+E08,private/var/mobile/Library/Calendar/Extras.db,whole file,32768,139d74a0e1fac008c96f7db93ef8f9116d37ae5137a3b7e6b39532f2e79c8ad6,working copy in ~/work/db/E08
+E08-wal,private/var/mobile/Library/Calendar/Extras.db-wal,whole file,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,sidecar of E08; working copy in ~/work/db/E08
+E08-shm,private/var/mobile/Library/Calendar/Extras.db-shm,whole file,32768,fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb,sidecar of E08; working copy in ~/work/db/E08
+E09,private/var/mobile/Media/PhotoData/Photos.sqlite,whole file,2383872,c6b7aa20863f7a8e4277ecef5a1aa4d28c3ec831f5843ed9480424fe672f0971,working copy in ~/work/db/E09
+E09-wal,private/var/mobile/Media/PhotoData/Photos.sqlite-wal,whole file,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,sidecar of E09; working copy in ~/work/db/E09
+E09-shm,private/var/mobile/Media/PhotoData/Photos.sqlite-shm,whole file,32768,fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb,sidecar of E09; working copy in ~/work/db/E09
+E10,private/var/mobile/Library/CoreDuet/Knowledge/knowledgeC.db,whole file,14225408,dfdf31fc6f3399777ad51ae28a345aac3365c53d09be79253ba70aceb1e1cd4b,working copy in ~/work/db/E10
+E10-wal,private/var/mobile/Library/CoreDuet/Knowledge/knowledgeC.db-wal,whole file,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,sidecar of E10; working copy in ~/work/db/E10
+E10-shm,private/var/mobile/Library/CoreDuet/Knowledge/knowledgeC.db-shm,whole file,32768,fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb,sidecar of E10; working copy in ~/work/db/E10
+E11,private/var/mobile/Library/Health/healthdb.sqlite,whole file,266240,87dc6cffd362290397b4be37d0e71d522de5737aab4618b85a0dc471fe7c0c5c,working copy in ~/work/db/E11
+E12,private/var/mobile/Library/Health/healthdb_secure.sqlite,whole file,10043392,8011d3cc2ad7e44f50f3536991cbba1feda51db3a9c0b644a2d03e9267fe8613,working copy in ~/work/db/E12
+E13,private/var/mobile/Library/Caches/com.apple.routined/Local.sqlite,whole file,348160,f2de19ee6b257aa3ab4cc41a8e8ba73afd65395ffd0b59779a19ec8ff55a585e,working copy in ~/work/db/E13
+E14,private/var/root/Library/Caches/locationd/cache_encryptedB.db,whole file,4988928,68fcee5d883aa7956566f87a0b7c4ee2014b6609ce6f5d5dc4658e0795e94f48,working copy in ~/work/db/E14

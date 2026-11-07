@@ -1,0 +1,17 @@
+msg_id,participant,service,direction,raw_date_ns2001,date_utc,has_att,text
+15,joshua.hickman1@me.com,iMessage,received,607027273290930944,"2020-03-27 18:41:13",1,https://music.apple.com/us/playlist/joshs-workout/pl.u-LRK3sV9gdL
+29,,iMessage,received,608322972792269952,"2020-04-11 18:36:12",0,
+30,joshua.hickman1@me.com,iMessage,received,608322984370022016,"2020-04-11 18:36:24",0,
+31,,iMessage,received,608323251255138048,"2020-04-11 18:40:51",0,
+32,joshua.hickman1@me.com,iMessage,received,608323454872403072,"2020-04-11 18:44:14",0,
+34,joshua.hickman1@me.com,iMessage,sent,608388861591000064,"2020-04-12 12:54:21",0,"Test iMessage. I hope this is a blue bubble!"
+35,joshua.hickman1@me.com,iMessage,received,608388923967756928,"2020-04-12 12:55:23",0,"It is!  We will still need to generate a green bubble at some point. "
+36,joshua.hickman1@me.com,iMessage,sent,608389005092000000,"2020-04-12 12:56:45",1,"￼"
+37,joshua.hickman1@me.com,iMessage,received,608389081841579008,"2020-04-12 12:58:01",1,"￼"
+38,joshua.hickman1@me.com,iMessage,sent,608390179362000000,"2020-04-12 13:16:19",1,"￼Here is Heather’s paper from DFIR Review. "
+39,joshua.hickman1@me.com,iMessage,received,608390475684724608,"2020-04-12 13:21:15",1,"￼Here is the sysdiagnose paper. Enjoy!"
+41,joshua.hickman1@me.com,iMessage,sent,608400900444000000,"2020-04-12 16:15:00",0,"It is. But there was some weird stuff at the end. "
+45,joshua.hickman1@me.com,iMessage,sent,608730350348999936,"2020-04-16 11:45:50",1,https://www.icloud.com/iclouddrive/0dSlbjOjW68xE-w-Uko8DcXJw#iOS_Bug_Reporting_for_Forensic_Purposes_1
+46,joshua.hickman1@me.com,iMessage,sent,608732278492000128,"2020-04-16 12:17:58",0,"This is a test message for Siri dictation"
+47,joshua.hickman1@me.com,iMessage,received,608734609731876864,"2020-04-16 12:56:49",0,"This is your test message for Siri dictation"
+48,joshua.hickman1@me.com,iMessage,received,608734769436671488,"2020-04-16 12:59:29",0,"This is your second test message for Siri dictation"

@@ -1,0 +1,3 @@
+att_id,message_id,filename,total_bytes,transfer_state,is_outgoing,created_utc
+2,,/var/tmp/com.apple.messages/com.apple.MobileSMS/Media/E54EFEAC-40A3-45D3-88BD-84B3E0A576FC/IMG_0008.JPG,676542,0,1,"2020-04-12 12:56:42"
+3,36,~/Library/SMS/Attachments/10/00/A0159B39-9B33-401F-B5F2-87638BBCF97B/IMG_0008.JPG,676542,5,1,"2020-04-12 12:56:44"

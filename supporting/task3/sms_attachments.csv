@@ -1,0 +1,7 @@
+message_id,attachment_id,filename,transfer_name,mime_type,total_bytes,transfer_state,is_outgoing,raw_created,created_utc
+15,1,~/Library/SMS/Attachments/cb/11/F1E68FA1-1F02-4544-A1C2-E9FC69565B4D/AF54E2D6-D6C5-4652-ABED-58C6D0662D0E.pluginPayloadAttachment,AF54E2D6-D6C5-4652-ABED-58C6D0662D0E.pluginPayloadAttachment,,770534,5,1,607027332,"2020-03-27 18:42:12"
+36,3,~/Library/SMS/Attachments/10/00/A0159B39-9B33-401F-B5F2-87638BBCF97B/IMG_0008.JPG,IMG_0008.JPG,image/jpeg,676542,5,1,608389004,"2020-04-12 12:56:44"
+37,4,~/Library/SMS/Attachments/54/04/9A5EF4E2-87A7-4923-ABD7-218D94989A09/FullSizeRender.jpeg,FullSizeRender.jpeg,image/jpeg,368536,5,0,608389082,"2020-04-12 12:58:02"
+38,5,"~/Library/SMS/Attachments/68/08/430548CB-3157-418F-9B0E-3E677784E7A4/How was an iPhone set up?.pdf","How was an iPhone set up?.pdf",application/pdf,846528,5,1,608390156,"2020-04-12 13:15:56"
+39,6,~/Library/SMS/Attachments/97/07/476F1BF4-4FE5-466A-AD8C-605576C5F16D/iOS_Bug_Reporting_for_Forensic_Purposes_1.2.pdf,iOS_Bug_Reporting_for_Forensic_Purposes_1.2.pdf,application/pdf,7073725,5,0,608390475,"2020-04-12 13:21:15"
+45,7,~/Library/SMS/Attachments/db/11/DDDBCB8D-6279-49B0-85B1-ADC00A191D32/069EBD0E-FDA6-486A-AA02-49E369691551.pluginPayloadAttachment,069EBD0E-FDA6-486A-AA02-49E369691551.pluginPayloadAttachment,,1598,5,1,608730349,"2020-04-16 11:45:49"
